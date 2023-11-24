@@ -12,3 +12,4 @@
 # env
 USERNAME=手机号/邮箱   
 PASSWORD=密码
+
